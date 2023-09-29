@@ -1,20 +1,15 @@
+body {
+    background: url("C:/wamp64/www/sistema_gym/images/gym.jpg") no-repeat;
+    background-size: cover;
+}
 html {
     min-height: 100%;
     position: relative;
     
 }
-
-body {
-    margin: 0;
-    margin-bottom: 60px;
-    background-image: url('C:/wamp64/www/sistema_gym/img/gym.jpg');
-}
-
-
 footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 60px;
 }
-

@@ -13,7 +13,7 @@
 </head>
 <body>
     
-<nav class="navbar navbar-expand-lg navbar-dark bg-black">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="/sistema_gym">GYM</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,8 +38,8 @@
             Empleados
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/sistema_gym/view/personas/create.php">Agregar empleado</a></li>
-            <li><a class="dropdown-item" href="/sistema_gym/view/personas">Listado de empleados</a></li>
+            <li><a class="dropdown-item" href="/sistema_gym/view/empleado/create.php">Agregar empleado</a></li>
+            <li><a class="dropdown-item" href="/sistema_gym/view/empleado">Listado de empleados</a></li>
           </ul>
         </li>
         </li>
@@ -48,8 +48,8 @@
             Roles
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/sistema_gym/view/users/create.php">Agregar rol</a></li>
-            <li><a class="dropdown-item" href="/sistema_gym/view/users">Listado de roles</a></li>
+            <li><a class="dropdown-item" href="/sistema_gym/view/roles/create.php">Agregar rol</a></li>
+            <li><a class="dropdown-item" href="/sistema_gym/view/roles">Listado de roles</a></li>
           </ul>
         </li>
         </li>
